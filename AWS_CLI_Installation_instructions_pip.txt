@@ -1,0 +1,23 @@
+adding the AWS command line interface so can use in gitbash
+
+I followed the below instructions
+
+https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html
+
+needed to add the right PATH manually to windows (headache)
+
+for setting credentials
+
+https://docs.aws.amazon.com/codecommit/latest/userguide/cmd-ref.html
+
+Make a file without an extension
+
+https://www.youtube.com/watch?v=e0TEwk1JeFA
+just save as "filename"
+
+used these instrucitons
+
+https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ssh-windows.html
+
+USING THESE INSTRUCTIONS FOR THE DEMO
+https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github-upload-sample-revision.html
